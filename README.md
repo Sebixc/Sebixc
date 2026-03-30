@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋
 
-<!--
-**Sebixc/Sebixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year Automation & Applied Informatics , Transilvania University Brașov  
+Building toward a career in **embedded & automotive**.
 
-Here are some ideas to get you started:
+## What I work with
+- **Language:** C/C++
+- **Hardware:** STM32, Arduino
+- **Protocols:** UART, SPI, I2C, CAN bus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- Mobile Robotic Arm
+- PID controler for DC motor
