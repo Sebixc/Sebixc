@@ -6,7 +6,7 @@ Building toward a career in **embedded & automotive**.
 ## What I work with
 - **Language:** C/C++
 - **Hardware:** STM32, Arduino
-- **Protocols:** UART, SPI, I2C, CAN bus
+- **Protocols:** UART, SPI, I2C
 
 ## What I'm building
 - Mobile Robotic Arm
